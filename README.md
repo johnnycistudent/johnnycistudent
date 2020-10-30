@@ -2,7 +2,7 @@
 
 ## :bearded_person: About Me
 
-- :man_technologist: I'm a student software engineer from Dublin, Ireland, currently studying a Higher Diploma course in Science in Computing(specialising in Software Development) at the National College of Ireland. 
+- :man_technologist: I'm a software engineer student from Dublin, Ireland, currently studying a Higher Diploma course in Science in Computing(specialising in Software Development) at the National College of Ireland. 
 - :man_student: I received a First Class Honours Diploma in a Full Stack Development course at the Code Institute in 2019 and have a Bachelor of Arts Degree in Journalism from Dublin Institute of Technology. 
 - 🔭 I’m currently working on a Portfolio site that links all my project and displays my skills as a developer.
 - 🌱 I’m currently learning Java, Object-Oriented Design principles and SQL. 
